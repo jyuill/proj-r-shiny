@@ -1,3 +1,4 @@
+### sliderinput-histogram
 
 library(shiny)
 
@@ -6,19 +7,16 @@ ui <- fluidPage(
   sliderInput(inputId="slider",
               label="Pick a Numbah! (to determine how many random observations)",
               min=1,max=20,value=10),
-  plotOutput("hist"),
-  verbatimTextOutput("stats")
-)
+  textInput(inputId="title",
+            label="Provide a title",
+            value="Histogram of Random Normal Values"),
+  plotOutput("hist")
+  )
 
 server <- function(input,output) {
-  data <- reactive({
-    rnorm(input$slider, mean=50, sd=10)
-  })
   output$hist <- renderPlot({
-    hist(data())
-  })
-  output$stats <- renderPrint({
-    summary(data())
+    hist(rnorm(input$slider,mean=50,sd=5),
+         main=input$title)
   })
 }
 
