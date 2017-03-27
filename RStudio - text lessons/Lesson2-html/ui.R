@@ -9,7 +9,7 @@
 
 library(shiny)
 
-# Define UI for application that draws a histogram
+# Define UI for demo of HTML capabilities
 shinyUI(fluidPage(
   titlePanel(
     h1("Title: Building User Interface (H1 tag)", align="center")
@@ -23,7 +23,7 @@ shinyUI(fluidPage(
     mainPanel(
       h2("Top Section (H2)"),
       p("First paragraph of text, created using 'p'."),
-      p("Aonther paragraph, with text style formatting.",
+      p("Another paragraph, with text style formatting.",
         style="font-family:'tahoma'"),
       strong("Use strong() to make text in the brackets bold, while"),
       em("em() creates italized text in the brackets."),
@@ -38,9 +38,10 @@ shinyUI(fluidPage(
       p("(br() works as expected in line above) 'span' does same thing as div, but ",
         span("works with groups of words", style="color:green"),
         "that appear inside a paragraph."),
-      h3("H3 Title"),
-      p("Easy to add images, but they need to be in a folder called
- 'www' in same directory as ui.R file. The www folder is treated in a special way
+      h3("Images! (H3)"),
+      p("Easy to add images, but they need to be in a folder called ",
+strong("'www' "),
+ "in same directory as ui.R file. The www folder is treated in a special way
         and is good place for images, style sheets, and other things the browser will need
         to build the web components of the Shiny app."),
       img(src="masseffectandromeda.jpg", height=200, width=375),
