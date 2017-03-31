@@ -93,11 +93,11 @@ shinyUI(fluidPage(
   fluidRow(
     
     column(3,
-           selectInput("select", label = h3("Select box"), 
-                       choices = list("Choice 1" = 1, "Choice 2" = 2,
-                                      "Choice 3" = 3), selected = 1),
+           selectInput("select", label = h3("Choose Color"), 
+                       choices = list("Percent Whitle" = 1, "Percent Red" = 2,
+                                      "Percent Black" = 3), selected = 1),
     sliderInput("slider2", "",
-                min = 0, max = 100, value = c(25, 75)))
+                min = 0, max = 1, value = c(0, 1)))
     
   )
   
