@@ -1,0 +1,11 @@
+name: census_app_-_learning
+title: Census app - learning
+account: catbird
+server: shinyapps.io
+appId: 168888
+bundleId: 773447
+url: https://catbird.shinyapps.io/census_app_-_learning/
+when: 1491089013.76199
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: map-setup-example.R

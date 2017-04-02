@@ -30,7 +30,7 @@ shinyUI(fluidPage(
                   selected="Percent White"),
       sliderInput("range",
                   label="Range of interest:",
-                  min=0, max=100, value=c(25,75))
+                  min=0, max=100, value=c(50,100))
        
     ),
     
