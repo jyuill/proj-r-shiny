@@ -27,7 +27,8 @@ shinyUI(fluidPage(
     
     # Show a plot of the generated distribution
     mainPanel(
-       plotOutput("chwPlot")
+       plotOutput("chwPlot"),
+       plotOutput("chwPlot2")
     )
   )
 ))

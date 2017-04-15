@@ -22,13 +22,16 @@ chw.sel <- chw.sel %>% mutate(other=weight*multi)
 shinyServer(function(input, output) {
   
   data <- reactive({
-    chw %>% filter(Chick==input$chick)
+    chw.sel %>% filter(Chick==input$chick)
   })
   
   output$chwPlot <- renderPlot({
     ggplot(data(), aes(x=Time, y=weight))+geom_bar(stat="identity")+
       facet_grid(.~Chick)
-   
+  })
+  output$chwPlot2 <- renderPlot({
+    ggplot(data(), aes(x=Time, y=other))+geom_line()+
+      facet_grid(.~Chick)
   })
   
 })
