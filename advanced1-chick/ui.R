@@ -20,8 +20,8 @@ shinyUI(fluidPage(
     sidebarPanel(
       selectInput("chick",
                   label="Select Chicks",
-                  choices=chw.sel$Chick,
-                  selected=chw$Chick[2],
+                  choices=unique(chw.sel$Chick),
+                  selected=unique(chw.sel$Chick)[2:3],
                   multiple = TRUE)
     ),
     
