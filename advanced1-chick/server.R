@@ -22,7 +22,7 @@ chw.sel <- chw.sel %>% mutate(other=weight*multi)
 shinyServer(function(input, output) {
   
   data <- reactive({
-    chw.sel %>% filter(Chick==input$chick)
+    chw.sel %>% filter(Chick==input$chick) %>% filter(Time>input$time[1] & Time<input$time[2])
   })
   
   output$chwPlot <- renderPlot({

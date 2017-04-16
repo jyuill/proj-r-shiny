@@ -22,7 +22,12 @@ shinyUI(fluidPage(
                   label="Select Chicks",
                   choices=unique(chw.sel$Chick),
                   selected=unique(chw.sel$Chick)[2:3],
-                  multiple = TRUE)
+                  multiple = TRUE),
+      
+      sliderInput(inputId="time",label="Select Time Range",
+                  min=0, max=25, value=c(0,10)
+        
+      )
     ),
     
     # Show a plot of the generated distribution
