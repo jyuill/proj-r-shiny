@@ -1,0 +1,616 @@
+{
+ "kind": "youtube#groupItemListResponse",
+ "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+ "items": [
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|MlKWkryWCOc",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "MlKWkryWCOc"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|Tcg1hR_m5Gs",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "Tcg1hR_m5Gs"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|mB90DI2DasY",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "mB90DI2DasY"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|1Wxm3hh61VQ",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "1Wxm3hh61VQ"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|uG8V9dRqSsw",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "uG8V9dRqSsw"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|O6SmJY7u-VU",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "O6SmJY7u-VU"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|aD8_IbiveQ4",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "aD8_IbiveQ4"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|RNDicWaAVuk",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "RNDicWaAVuk"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|ODQIzL2o6IY",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "ODQIzL2o6IY"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|F4bGnSCz4kU",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "F4bGnSCz4kU"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|WdBdxIoElM4",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "WdBdxIoElM4"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|2JwHxXIO0aM",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "2JwHxXIO0aM"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|Ie0L3bo8k4M",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "Ie0L3bo8k4M"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|vLWFkzWJHTc",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "vLWFkzWJHTc"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|_eKx73vqDTM",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "_eKx73vqDTM"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|xAjoXj0Y3W4",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "xAjoXj0Y3W4"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|R_LlOCSyTuQ",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "R_LlOCSyTuQ"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|kaEIRdRAPq0",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "kaEIRdRAPq0"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|so109VBNG7U",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "so109VBNG7U"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|0sTT-27EGy4",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "0sTT-27EGy4"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|pyZw_oqk7Q8",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "pyZw_oqk7Q8"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|76QVWPsIEBg",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "76QVWPsIEBg"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|XnsiiKJo9JE",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "XnsiiKJo9JE"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|54_VzSLN3_I",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "54_VzSLN3_I"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|49VQemyyi9A",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "49VQemyyi9A"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|SPkv7DmeM1A",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "SPkv7DmeM1A"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|ST2_GEH5078",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "ST2_GEH5078"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|MjfIPkv4WDY",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "MjfIPkv4WDY"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|KxhYCNJxxWM",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "KxhYCNJxxWM"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|Za0j8w1VIbA",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "Za0j8w1VIbA"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|PXoaoBdc7Jw",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "PXoaoBdc7Jw"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|aiKzjOPs9tA",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "aiKzjOPs9tA"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|vorVhdm5MJY",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "vorVhdm5MJY"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|ffUFIHRE3UE",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "ffUFIHRE3UE"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|VjLsrT9sZzY",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "VjLsrT9sZzY"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|PaO7Gxo9Rko",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "PaO7Gxo9Rko"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|t1hBNALUk4w",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "t1hBNALUk4w"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|J0NeftlD6Es",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "J0NeftlD6Es"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|8QwpT4dCnTk",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "8QwpT4dCnTk"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|MQSZirEG3Eo",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "MQSZirEG3Eo"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|ZiX9Jqj6Ig4",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "ZiX9Jqj6Ig4"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|5dL_2IEA2dw",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "5dL_2IEA2dw"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|T2fOy31HRF8",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "T2fOy31HRF8"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|nxNBVZCIVl4",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "nxNBVZCIVl4"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|fa3xPT4K0SI",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "fa3xPT4K0SI"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|i3X-4BAC7xM",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "i3X-4BAC7xM"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|u1tNolc-4WQ",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "u1tNolc-4WQ"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|f5v18ZvuWGk",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "f5v18ZvuWGk"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|aFP_SySddpE",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "aFP_SySddpE"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|y2vgHOXeps0",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "y2vgHOXeps0"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|SPLUL3BqJWs",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "SPLUL3BqJWs"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|AAngYMRIsmI",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "AAngYMRIsmI"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|2siCm64JaWk",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "2siCm64JaWk"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|FdIsmTyIfnU",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "FdIsmTyIfnU"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|BpRfQ0pxErs",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "BpRfQ0pxErs"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|OJUr5H5pQyY",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "OJUr5H5pQyY"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|Kxx63U1YBK0",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "Kxx63U1YBK0"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|27Pz3m6xxiw",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "27Pz3m6xxiw"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|oQoq7RiD-7o",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "oQoq7RiD-7o"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|9GwGxvuvQpk",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "9GwGxvuvQpk"
+   }
+  },
+  {
+   "kind": "youtube#groupItem",
+   "etag": "\"WU42xQvI43lQmxkun9icMu0JFq4/P4KLIY35rf0VywgkjcdbyX9j6eM\"",
+   "id": "ABQ6Le3wAAA|FSts_y5Uo0o",
+   "groupId": "ABQ6Le3wAAA",
+   "resource": {
+    "kind": "youtube#video",
+    "id": "FSts_y5Uo0o"
+   }
+  }
+ ]
+}
