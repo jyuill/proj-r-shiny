@@ -14,10 +14,12 @@ library(shiny)
 library(dplyr)
 library(ggplot2)
 
+## right now only works when this code is here and in ui.R
 chw <- ChickWeight
 chw.sel <- chw %>% filter(Chick=="1"|Chick=="2"|Chick=="3"|Chick=="4"|Chick=="5")
 multi <- rnorm(length(chw.sel$weight),0,1)
 chw.sel <- chw.sel %>% mutate(other=weight*multi)
+#####
 
 shinyServer(function(input, output) {
   
