@@ -6,7 +6,7 @@
 # 
 #    http://shiny.rstudio.com/
 #
-
+library(tidyverse)
 library(shiny)
 
 ## right now only works when this code is here and server.R
