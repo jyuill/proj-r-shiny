@@ -10,6 +10,7 @@ library(tidyverse)
 library(shiny)
 
 ## right now only works when this code is here and server.R
+## (can be solved by using separate file and calling with 'source' from ui.R)
 chw <- ChickWeight
 chw.sel <- chw %>% filter(Chick=="1"|Chick=="2"|Chick=="3"|Chick=="4"|Chick=="5")
 multi <- rnorm(length(chw.sel$weight),0,1)
