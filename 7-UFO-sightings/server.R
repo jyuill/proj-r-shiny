@@ -7,15 +7,10 @@ library(lubridate)
 library(DT)
 library(here)
 
-## not sure where this is best placed, maybe above shinyServer?
-#ufo_data <- read_csv(here::here('7-UFO-sightings','ufo_sight_clean.csv'))
-ufo_data <- read_csv('ufo_sight_clean.csv')
-#ufo_data <- read_csv('7-UFO-sightings/ufo_sight_clean.csv')
+## data is obtained by sourcing a data file from ui.R
 
 # Define server logic required to draw a histogram
 shinyServer(function(input, output) {
-  ## not sure where this is best placed, maybe above shinyServer?
-   #ufo_data <- read_csv(here::here('7-UFO-sightings','ufo_sight_clean.csv'))
   ## Reactive expression to filter based on inputs
    rval_ufos <- reactive({
      ufos <- ufo_data %>% filter(state==input$state & date>= input$dtrng[1] & date<=input$dtrng[2]) %>%
