@@ -9,8 +9,12 @@
 
 library(shiny)
 library(tidyverse)
+library(here)
 library(plotly)
 library(DT)
+
+## get data - need to source a data import file from ui.R
+source(here::here('8-cars-by-carbs','mtc-cars','get-data-for-shiny.R'))
 
 # Define UI for application that draws a histogram
 shinyUI(fluidPage(

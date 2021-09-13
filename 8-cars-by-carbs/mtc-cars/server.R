@@ -1,4 +1,4 @@
-#
+# MTC Cars with Carbs
 # This is the server logic of a Shiny web application. You can run the
 # application by clicking 'Run App' above.
 #
@@ -14,7 +14,9 @@ library(plotly)
 library(DT)
 
 ## load data
-mtc <- read_csv(here::here('8-cuisine-ingredients', 'mtc-data.csv'))
+#mtc <- read_csv(here::here('8-cars-by-carbs', 'mtc-data.csv'))
+#mtc <- read_csv(here('8-cars-by-carbs','mtc-cars','mtc-data.csv'))
+mtc <- read_csv('mtc-data.csv')
 
 # Define server logic required to draw a histogram
 shinyServer(function(input, output) {
