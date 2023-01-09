@@ -4,13 +4,14 @@ library(shiny)
 library(tidyverse)
 library(lubridate)
 library(DT)
+library(shinythemes)
 
 ## get data - need to source a data import file from ui.R
 #ufo_data <- read_csv(here::here('7-UFO-sightings','ufo_sight_clean.csv'))
 source(here::here('7-UFO-sightings','get-data-for-shiny.R'))
 
 # Define UI for application that draws a histogram
-shinyUI(fluidPage(
+shinyUI(fluidPage(theme=shinytheme('readable'),
   
   # Application title
   titlePanel("UFO Sightings"),
